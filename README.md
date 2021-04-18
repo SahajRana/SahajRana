@@ -1,4 +1,4 @@
-# [![sahaj rana's header](https://raw.githubusercontent.com/WaaaaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://blup.in)
+# [![sahaj rana's header](https://raw.githubusercontent.com/SahajRana/SahajRana/main/sahajrana_header.png)](https://blup.in)
 
 ### Hi there 👋
 
