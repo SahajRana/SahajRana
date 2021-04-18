@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/SahajRana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahajRana&include_all_commits=true&count_private=true&theme=dark&hide_langs_below=1" />
-</a>
+[![SahajRana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SahajRana)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/SahajRana">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SahajRana&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="Sahaj's github stats"/>
 </a>
