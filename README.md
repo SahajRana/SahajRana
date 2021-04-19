@@ -18,7 +18,7 @@
   <img align="left" alt="Sahaj's StackOverflow" width="30px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />
 </a>
 <a href="https://www.instagram.com/sahaj_rana/">
-  <img align="left" alt="Sahaj's Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram--v1.png" />
+  <img align="left" alt="Sahaj's Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
 
 <br/>
