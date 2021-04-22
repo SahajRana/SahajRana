@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on: [Blup](https://blup.in), Previous project was [Rootsapp](https://rootsapp.in)
+- 🔭 I’m currently working on: <a href="https://blup.in" target="_blank"><img alt="Blup" width="16px" style="padding-bottom: 0px;" src="https://avatars.githubusercontent.com/u/63707209?s=60&v=4" /></a>[Blup](https://blup.in), Previous project was <a href="https://rootsapp.in" target="_blank"><img alt="Rootsapp" width="14px" src="https://avatars.githubusercontent.com/u/38361264?s=60&v=4" /></a>[Rootsapp](https://rootsapp.in)
 - 🌱 I’m currently learning: Startup building.
 - 👯 I’m looking to collaborate on: Flutter
 - 🤔 I’m looking for help with: Flutter
