@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-[![SahajRana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SahajRana)](https://github.com/anuraghazra/github-readme-stats)
+[![SahajRana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SahajRana&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/SahajRana">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SahajRana&count_private=true&show_icons=true&include_all_commits=true&line_height=30&title_color=3F89EE&icon_color=D59900&text_color=1E1E1E&bg_color=FDFDFD" alt="Sahaj's github stats"/>
