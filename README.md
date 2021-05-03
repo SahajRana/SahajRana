@@ -26,6 +26,7 @@
 **Languages and Tools:**  
 
 <a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" /></a>
+<a href="https://dart.dev/" target="_blank"><img align="left" alt="Dart" width="26px" src="https://img.icons8.com/color/48/000000/dart.png" /></a>
 <a href="https://developer.android.com/" target="_blank"><img align="left" alt="Android" width="26px" src="https://img.icons8.com/fluent/48/000000/android-os.png" /></a>
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
